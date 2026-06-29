@@ -17,3 +17,10 @@ https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_HD/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02e5570aae09593781925439f88506e7":"cbc11db5205f6038ba7ac5fa2346a3ce","ebb1ce84394a59d8b1c53c125726e0e3":"3cdf81c8b5e5c014aca7780ccf377326","734c036bbec35bf6a065f320f077f1a4":"5d79bb12904490596103bd73bf2b4cd0","c8099f171e3b5114be879b644d853b0d":"b5d33108660d774c6e0718483e5683f5"}
 https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_3_HD/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="M6.fr" group-title="" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png"",M6 4K 🇫🇷
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sYrAZ4lRCUn1_uVe4idBUQ","k":"17nW26BXQbEHDYwZdDAg-Q"},{"kty":"oct","kid":"ahTU6aLscNBguHNiLQ_gow","k":"T-N6-B5r4e3xfi9eAMZ65A"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/1/live.mpd
